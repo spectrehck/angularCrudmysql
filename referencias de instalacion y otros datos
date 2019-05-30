@@ -1,0 +1,5 @@
+instalaciones para el proyecto
+npm i nodemon -D (la D significa que va a ser una dependencia de desarrollo y que cuando se suba el trabajo no subira esa carpeta)
+			(nodemon sirve para observar los cambios y correrlos en caliente)
+npm run build ( sirve para correr un observador que esta pendiente del codigo javascript para transformalo a typescript)
+
